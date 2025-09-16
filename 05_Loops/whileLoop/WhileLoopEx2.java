@@ -9,6 +9,8 @@ public class WhileLoopEx2 {
 			System.out.print(r);
 			n/=10;
 		}
+		sc.close();
 	}
+	
 
 }

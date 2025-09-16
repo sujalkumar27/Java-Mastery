@@ -39,5 +39,6 @@ public class InheritanceEx1 {
 		System.out.println(b.y);
 		b.m1();
 		b.m2();
+
 	}
 }

@@ -25,6 +25,7 @@ public class Palindrome {
 		String s = palindrome(n);
 		System.out.println(s);
 		System.out.println("Thanks! for using this app");
+		sc.close();
 	}
 
 }

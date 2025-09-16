@@ -10,6 +10,7 @@ public class WhileLoopEx1 {
 			System.out.println("Rahul Chauhan");
 			x++;
 		}
+		sc.close();
 	}
 
 }

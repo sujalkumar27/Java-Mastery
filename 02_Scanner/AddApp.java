@@ -9,7 +9,7 @@ public class AddApp {
 		int b= sc.nextInt();
 		int s=a+b;
 		System.out.println("Sum is: "+s);
-		
+		sc.close();
 	}
 
 }

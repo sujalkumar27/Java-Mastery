@@ -6,6 +6,7 @@ public class Cube {
 		System.out.println("Enter the number: ");
 		int a=sc.nextInt();
 	    System.out.println("The cube of the given number is: "+a*a*a);	
+		sc.close();
 	}
 
 }

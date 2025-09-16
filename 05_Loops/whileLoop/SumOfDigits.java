@@ -10,5 +10,6 @@ public class SumOfDigits {
 			sum=sum+(a%10);
 			a=a/10;
 		}System.out.println("sum = "+sum);
+		sc.close();
 	}
 }

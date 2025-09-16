@@ -12,6 +12,7 @@ public class DecisionMakingEx1 {
 		}
 		System.out.println("Bye App");
 	}
+	
 
 
 }

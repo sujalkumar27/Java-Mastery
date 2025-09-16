@@ -27,5 +27,6 @@ public class PrimeNo {
 		String r = prime(n);
 		System.out.println(r);
 		;
+		sc.close();
 	}
 }
