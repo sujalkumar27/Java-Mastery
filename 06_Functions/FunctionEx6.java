@@ -15,6 +15,7 @@ public class FunctionEx6 {
 		
 		double result=si(p,r,t);
 		System.out.println("Simple Interest: "+result);
+		sc.close();
 	}
 
 }

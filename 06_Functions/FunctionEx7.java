@@ -9,8 +9,10 @@ public class FunctionEx7 {
 		double r=sc.nextDouble();
 		System.out.println("Enter Time Period: ");
 		int t=sc.nextInt();
+		sc.close();
 		
 		return p*r*t/100;
+
 	}
 	public static void main(String[] args) {
 		double result=si();

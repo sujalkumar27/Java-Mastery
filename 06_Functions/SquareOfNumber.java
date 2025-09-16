@@ -9,6 +9,8 @@ public class SquareOfNumber {
 		int a=sc.nextInt();
 		int b=square(a);
 		System.out.println("Square: "+b);
+		sc.close();
 		}
+		
 
 }

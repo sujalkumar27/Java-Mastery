@@ -2,7 +2,6 @@
 public class Palindrome {
 	static String palindrome(int n) {
 		String s = "";
-		String c="";
 		int num = 0;
 		int i = 0;
 		int a = n;

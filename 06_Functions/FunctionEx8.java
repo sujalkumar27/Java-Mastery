@@ -8,6 +8,7 @@ public class FunctionEx8 {
 		System.out.println("Enter a string: ");
 		String s=sc.next();
 		show(s);
+		sc.close();
 		
 	}
 }

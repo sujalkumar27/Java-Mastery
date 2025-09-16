@@ -14,6 +14,7 @@ class Employeeeeee{
 		salary=sc.nextInt();
 		System.out.println("Enter Company Name: ");
 		cname=sc.next();
+		sc.close();
 	}
 }
 public class ClassObjectExample4 {
