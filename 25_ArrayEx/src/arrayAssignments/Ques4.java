@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Ques4 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the length of the array: ");
+		int n = sc.nextInt();
+		int a[] = new int[n];
+		System.out.println("Please enter" + n + "arrays elements: ");
+		for (int x = 0; x < a.length; x++) {
+			a[x] = sc.nextInt();
+		}
+		int sum=0;
+		for (int x = 0; x < n; x++) {
+			sum +=a[x];
+
+		}
+		System.out.println("Sum of all values of given array are " + sum);
+
+	}
+
+}
